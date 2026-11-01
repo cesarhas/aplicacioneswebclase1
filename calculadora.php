@@ -92,7 +92,7 @@ if($_POST){
 ?>
 
 <br>
-<a href="index.html">Volver a la página principal</a>
+<a href="indext.html">Volver a la página principal</a>
 
 </div>
 
